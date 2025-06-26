@@ -1,15 +1,48 @@
-<h1 align="center">Hi, I'm Danyil</h1>
-<h3 align="center">I'm a passionate Software Engineer</h3>
-<p align="center"><i>“Every end is a new beginning. The exhibition is closed.”</i></p>
+<h1 align="center"><a href="https://leyofficial.tech/" target="blank">Danyil Kozlov</a></h1>
+
+<h2 align="center">💻 Passionate about Frontend, Backend, Machine Learning & Linux 🐧</h2>
+<h3 align="center">Building real-world apps with JavaScript, TypeScript, Python & AI 🤖</h3>
+
+---
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
 
 
+---
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white) 
-<br/>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leyofficial&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  </a>
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leyofficial&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<h2 align="center">🌐 Top Languages</h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyofficial&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
