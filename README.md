@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://leyofficial.tech/" target="blank">Danyil Kozlov</a></h1>
+<h1 align="center"><a href="https://danyil.tech/" target="blank">Danyil Kozlov</a></h1>
 
 <h2 align="center">💻 Passionate about Frontend, Backend, Machine Learning & Linux 🐧</h2>
 <h3 align="center">Building real-world apps with JavaScript, TypeScript, Python & AI 🤖</h3>
